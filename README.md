@@ -5,7 +5,6 @@
 I am an IT Professional with 3 years experience working in an enterprise environment 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Currently working towards a career in Information Technology, which has led me to develop a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 

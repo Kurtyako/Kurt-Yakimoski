@@ -1,5 +1,5 @@
 # Hello, I'm Kurt
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ca.linkedin.com/in/kurt-yakimoski-42b34b303"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an IT Professional with 3 years experience working in an enterprise environment 
@@ -13,7 +13,7 @@ Currently working towards a career in Information Technology, which has led me t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Wazuh File Integrity Monitoring               | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kurtyako/SIEM-Implementation">Detection Lab</a>|
+| SIEM Implementation with Fleet Server          | <a href="https://github.com/Kurtyako/SIEM-Implementation">SIEM with Fleet Server Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

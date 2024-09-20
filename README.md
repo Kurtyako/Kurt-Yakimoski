@@ -13,7 +13,7 @@ Currently working towards a career in Information Technology, which has led me t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Wazuh File Integrity Monitoring               | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kurtyako/SIEM-Implementation">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

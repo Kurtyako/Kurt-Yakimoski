@@ -6,7 +6,7 @@ I am an IT Professional with 3 years experience working in an enterprise environ
 
 ## Objective
 
-Currently working towards a career in Information Technology, which has led me to develop a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Currently working towards a career in Information Technology, which has led me to develop a passion for cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Junior Analyst.
 
 ## Skills
 
@@ -14,12 +14,7 @@ Currently working towards a career in Information Technology, which has led me t
 |-----------------------------------------------|----------------------------|
 | Wazuh File Integrity Monitoring               | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
 | SIEM Implementation with Fleet Server          | <a href="https://github.com/Kurtyako/SIEM-Implementation">SIEM with Fleet Server Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Network Traffic Monitoring and Attack Detection | <a >In Progress</a>|
 ## Tools
 
 ### Network

@@ -11,9 +11,10 @@ Currently working towards a career in Information Technology, which has led me t
 ## Skills
 
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Wazuh File Integrity Monitoring               | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
-| SIEM Implementation with Fleet Server          | <a href="https://github.com/Kurtyako/SIEM-Implementation">SIEM with Fleet Server Project</a>|
+|-------------------------------------------------|----------------------------|
+| Wazuh File Integrity Monitoring                 | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
+| SIEM Implementation with Fleet Server           | <a href="https://github.com/Kurtyako/SIEM-Implementation">SIEM with Fleet Server Project</a>|
+| Configure and monitor HoneyPot                  | <a href="">HoneyPot Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a >In Progress</a>|
 ## Tools
 

@@ -2,7 +2,7 @@
 <a href="https://ca.linkedin.com/in/kurt-yakimoski-42b34b303"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an IT Professional with 4 years experience working in an enterprise environment 
+I am an IT Professional with 4 years experience working in an enterprise environment. 
 
 ## Objective
 

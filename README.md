@@ -6,7 +6,7 @@ I am an IT Professional with 4 years experience working in an enterprise environ
 
 ## Objective
 
-Currently working towards a career in Information Technology, which has led me to develop a passion for cybersecurity..
+Currently working towards a career in Information Technology, which has led me to develop a passion for cybersecurity.
 
 ## Skills
 

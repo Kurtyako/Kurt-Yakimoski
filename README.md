@@ -12,7 +12,7 @@ Currently working towards a career in Information Technology, which has led me t
 
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Identity and access Managment Project           | <a >In Progress</a>|
+| Identity and access Managment Project           | <a href="https://github.com/Kurtyako/Identity-and-Access-Management-IAM-Project"</a>|
 | Wazuh File Integrity Monitoring                 | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
 | SIEM Implementation with Fleet Server           | <a href="https://github.com/Kurtyako/SIEM-Implementation">SIEM with Fleet Server Project</a>|
 | Configure and monitor HoneyPot                  | <a href="https://github.com/Kurtyako/Honeypot">HoneyPot Project</a>|

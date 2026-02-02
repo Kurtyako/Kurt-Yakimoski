@@ -10,7 +10,7 @@ Currently working towards a career in Information Technology, which has led me t
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects         |
 |-------------------------------------------------|----------------------------|
 | Identity and Access Managment(IAM)           | <a href="https://github.com/Kurtyako/Identity-and-Access-Management-IAM-Project">Identity and Access Managment Project</a>|
 | Wazuh File Integrity Monitoring                 | <a href="https://github.com/Kurtyako/Wazuh-FIM-Lab/tree/main">Wazuh FIM Lab</a>|
@@ -44,3 +44,4 @@ Currently working towards a career in Information Technology, which has led me t
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Academy%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
